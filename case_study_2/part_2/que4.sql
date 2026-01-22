@@ -1,7 +1,5 @@
 -- 4. What was the average distance travelled for each customer?
 
--- 4. What was the average distance travelled for each customer?
-
 WITH order_level AS (
     SELECT
         c.order_id,
