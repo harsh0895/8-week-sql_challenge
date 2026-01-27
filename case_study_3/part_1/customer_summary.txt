@@ -1,0 +1,50 @@
+🧑‍💻 A. Customer Journey (Sample Customers)
+
+Customer 1
+    Started with a 7-day free trial
+    After the trial, downgraded to the Basic monthly plan
+    Continues as a paying Basic customer
+
+Customer 2
+    Began with the free trial
+    After trial completion, upgraded directly to the Pro annual plan
+    Became a long-term high-value customer
+
+Customer 3
+    Signed up for the free trial
+    Converted to the Basic monthly plan
+    Remained on the Basic plan afterward
+
+Customer 4
+    Started on the free trial
+    Moved to the Basic monthly plan
+    Did not upgrade further within the sample period
+
+Customer 5
+    Joined via the free trial
+    Converted to the Pro monthly plan
+    Later churned, indicating cancellation after being a paid Pro customer
+
+Customer 6
+    Started with the trial plan
+    Upgraded to Pro monthly
+    Continued as an active Pro customer
+
+Customer 7
+    Entered through the free trial
+    Upgraded to Pro monthly
+    Later upgraded again to Pro annual, showing strong engagement
+
+Customer 8
+    Signed up for the free trial
+    Cancelled during or immediately after the trial
+    Resulted in churn without becoming a paid customer
+
+✅ Key Takeaway
+    Every customer starts with a trial
+    Customers either:
+    Convert to Basic
+    Convert to Pro (monthly or annual)
+    Or churn
+    Upgrades to higher plans happen immediately
+    Churn reflects intent to cancel, not instant loss of access
